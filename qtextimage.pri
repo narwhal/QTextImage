@@ -1,5 +1,3 @@
-HEADERS += \
-    ../qtextimage.h
+HEADERS += $$PWD/qtextimage.h
 
-SOURCES += \
-    ../qtextimage.cpp
+SOURCES += $$PWD/qtextimage.cpp
